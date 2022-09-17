@@ -1,0 +1,96 @@
+* {
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
+
+.view {
+    background: rgba(0, 0, 0, 0.7) url('https://ansunibaate.com/wp-content/uploads/2019/05/Custom-Home-Sunset.jpg');
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-fluid {
+    width: 15%;
+    padding: 10px;
+}
+
+.navbar-collapse ul li {
+    padding-left: 10px;
+}
+
+.navbar-collapse ul li a {
+    color: gold;
+}
+
+span {
+    color: yellow;
+    padding: 10px;
+}
+
+.top {
+    color: white;
+    text-transform: capitalize;
+    margin-top: 90px;
+    font-size: 2.4em;
+}
+
+.top-line {
+    color: white;
+    text-align: center;
+
+}
+
+.btn {
+    color: white;
+    margin: 20px;
+}
+
+.card a {
+    width: 80%;
+}
+
+.projects h1 {
+    font-size: 4em;
+}
+
+.projects p {
+    font-size: 1.5em;
+}
+
+.team-img img {
+    width: 100px;
+    height: 100px;
+}
+
+.fab {
+    color: red;
+}
+
+.fa-facebook,
+.fa-twitter {
+    color: blue;
+}
+
+.footer {
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.form-row button {
+    width: 100px;
+}
+
+.footer li {
+    cursor: pointer;
+    color: green;
+    list-style-type: none;
+}
